@@ -2,7 +2,7 @@
 
 pragma solidity >=0.7.0 <0.9.0;
 import "remix_tests.sol";
-import "../contracts/MyToken.sol";
+import "../contracts/Vietherum-ViETH.sol";
 
 contract MyTokenTest is MyToken {
 
