@@ -6,7 +6,7 @@
 	"input": {
 		"language": "Solidity",
 		"sources": {
-			"contracts/MyToken1.sol": {
+			"contracts/Vietherum-ViETH.sol": {
 				"content": ""
 			}
 		},
