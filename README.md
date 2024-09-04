@@ -1,6 +1,9 @@
 # Viethereum (VIETH) - Vietnam Digital Currency
 
+Author : Huy Tran Dang
+
 ## Introduction
+
 
 **Viethereum (VIETH)** is a groundbreaking digital currency project developed to enhance the financial system of Vietnam. The goal of Viethereum is not only to provide an advanced payment solution but also to help reduce inflation and strengthen the stability of the Vietnamese Dong (VND).
 
